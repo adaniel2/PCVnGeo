@@ -4,9 +4,9 @@
 
 ---
 
-## 📹 Voyis Project Demo Video (Feb 5th, 2025)
+## 📹 Project Demo Video (Feb 5th, 2025)
 
-This demo quickly goes through all the implemented features as of Feb 5th, 2025 for the Voyis project.
+This demo quickly goes through all the implemented features as of Feb 5th, 2025 for the project.
 
 This project/challenge had a 2 week development deadline.
 
