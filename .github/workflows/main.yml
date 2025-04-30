@@ -31,4 +31,4 @@ jobs:
             docker rm danieldoescode-container || true
 
             # Run a new container mapping host port 8080 to container port 80
-            docker run -d -p  80:80 --name danieldoescode-container danieldoescode:latest
+            docker run -d -p  8080:80 --name danieldoescode-container danieldoescode:latest
